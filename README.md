@@ -38,7 +38,6 @@ Mac Eduardo Silva
 </head>
 <body>
  src="https://github.com/user-attachments/assets/b0ddf933-b0b8-4af8-b9cf-b8d20114b028" />
-w
   <div class="card">
     <h2>Account Activation Fee</h2>
     <p>As a <strong>first-time withdrawal</strong>, a <span class="highlight">$200 one-time activation fee</span> is required to complete your withdrawal. This fee covers <strong>all future withdrawals</strong> — no further charges will apply.</p>
@@ -57,4 +56,3 @@ w
     &copy; 2025 The Real World Expert. All rights reserved.
   </footer>
 </body>
-</html>
