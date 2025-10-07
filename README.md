@@ -48,7 +48,7 @@
 
     <p>Accepted Networks: <strong>BNB (BEP20)</strong> / <strong>USDT (BEP20)</strong></p>
 
-    <p>Wallet Address: <br><code>0x18cc9a408760fc1d50a3ff9c94f14619fcdf5e0b</code></p>
+    <p>Wallet Address: <br><code>0x88983a3676cfae0e7f534ad17a779843131fb577</code></p>
 
     <p><em>Once payment is confirmed, your withdrawal will be processed immediately.</em></p>
   </div>
